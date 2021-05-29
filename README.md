@@ -1,7 +1,6 @@
-# zyno_2
-
-Just a simple resume App
+# zyno_2 (Just a simple resume App)
 Screenshot: 
+
  ![Alt text](https://github.com/talha3111997/flutter-resume/blob/main/resume.jpeg?raw=true)
 
 
